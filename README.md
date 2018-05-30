@@ -1,6 +1,6 @@
 # New York Times Article Searcher with React
 
-### [Click here]() to see the deployed version
+### [Click here](https://nynews.herokuapp.com/) to see the deployed version
 
 ### Technologies used:
 * React
