@@ -1,0 +1,14 @@
+.jumbotron h1 {
+  font-size: 36px;
+
+}
+
+.jumbotron h2 {
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.jumbotron {
+	background: #000 url("./images/nytpic.jpg") center center;
+	padding-bottom: 120px;
+}
